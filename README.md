@@ -13,8 +13,8 @@
 
 ## MORE ABOUT ME:
 
-[![fballest's 42 stats](https://badge42.vercel.app/api/v2/cl45d74de005409l9l5r3ozl6/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
-
+<!-- [![fballest's 42 stats](https://badge42.vercel.app/api/v2/cl45d74de005409l9l5r3ozl6/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+-->
 <a href="https://www.linkedin.com/in/daniel-perez-zafra-92a4421b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
 ## CONTACT:
