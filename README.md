@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nestjs,vue,kafka,grafana,azure,aws,arduino)](https://skillicons.dev)
 
-#### DATA BASES
+#### DATABASES
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 ## MORE ABOUT ME:
