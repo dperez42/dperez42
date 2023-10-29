@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white"/>
 #### TOOLS
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=docker,kubernetes)]
+(https://skillicons.dev)
 
 
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
