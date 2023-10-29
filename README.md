@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dperez42&show_icons=true&theme=dark)
 
-
+<!--https://github.com/tandpfun/skill-icons#icons-list-->
 ## LANGUAJES & TOOLS:
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dperez42&layout=compact&langs_count=8&theme=dark"/>
