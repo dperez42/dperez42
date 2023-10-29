@@ -11,12 +11,12 @@
 
 #### LANGUAJES
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,nodejs,html,css,bash)](https://skillicons.dev)
 
 #### TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nestjs,vue, kafka, grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,vue,kafka,grafana)](https://skillicons.dev)
 
 #### DATA BASES
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
