@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dperez42&layout=compact&langs_count=8&theme=dark"/>
 
 #### LANGUAJES
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,wasm)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white"/>
 #### TOOLS
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
 
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernettes-green?style=for-the-badge&logo=kubernettes&logoColor=white"/>
