@@ -16,7 +16,7 @@
 #### TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nestjs,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,vue, kafka, grafana)](https://skillicons.dev)
 
 #### DATA BASES
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
