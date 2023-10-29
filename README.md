@@ -27,6 +27,7 @@
 #### TOOLS
 [![My Tools](https://skillicons.dev/icons?i=docker,kubernetes)]
 (https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
