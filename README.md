@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/npm-green?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/nestjs-green?style=for-the-badge&logo=nest&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/css-green?style=for-the-badge&logo=css&logoColor=white"/>
 #### TOOLS
 
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
