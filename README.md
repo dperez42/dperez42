@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-green?logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/npm-green?style=for-the-badge&logo=npm&logoColor=white"/>
 
 #### TOOLS
 
