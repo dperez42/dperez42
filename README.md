@@ -10,6 +10,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dperez42&layout=compact&langs_count=8&theme=dark"/>
 
 #### LANGUAJES
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,wasm)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,wasm)](https://skillicons.dev)
